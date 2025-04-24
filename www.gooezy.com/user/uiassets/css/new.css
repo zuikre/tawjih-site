@@ -1,0 +1,698 @@
+
+/***** Home page Design improvement ******/
+.container-cities {
+  display: flex;
+justify-content: space-around;
+flex-direction: row;
+flex-grow: 1;
+flex-wrap: wrap;
+margin-left: 60px;
+margin-right: 60px;
+
+}
+
+.item img {
+   /* width: 150px;
+    height: 150px;*/
+	width:100%;
+	height:90px;
+	padding-bottom:10px;
+	
+}
+
+.cititle h3{
+	font-size:15px;
+	font-weight:600;
+}
+
+.cititle a{
+	text-decoration:none;
+	margin-bottom:10px;
+	color:rgba(0, 0, 0, 0.7);
+	text-align:center;
+}
+.section-title-city h2{
+	font-size: 22px;
+	font-weight: 510;
+	color: #566985;
+	
+}
+.topftr{
+	padding-top:15px;
+}
+
+.topftr a{
+font-family: 'Quicksand';
+display: inline-block;
+font-size: 12px;
+font-weight:500;
+color: #000;
+position: absolute;
+left: 0px;
+top: 0px;
+background: url(../../../uiassets/images/all/caret.png) no-repeat 100%;
+padding: 0 15px 0 0;
+}
+
+
+
+.topftr a:hover {
+    color: #000;
+    margin-left:5px;
+}
+
+.testullist{
+	margin-top: 15px;
+	padding-top: 15px;
+	border-top: 1px dashed rgba(12, 11, 11, 0.2);
+	column-count: 2;
+}
+.testullist li{
+	
+float: left;
+width: 100%;
+text-align: left;
+padding: 5px 0;
+font-size: 13px;
+font-weight: 500;	
+	
+}
+.testullist li a{
+color: rgb(0, 0, 0);
+padding-left: 4px;	
+}
+
+
+.testullist a:hover{
+	color:#4DB7FE;
+}
+
+.footer-widget h4{
+font-size: 17px;
+float: left;
+text-align: left;
+width: 100%;
+padding-bottom:20px;
+color: rgba(0, 0, 0, 0.7);
+font-weight: 900;
+border-bottom: 1px solid rgba(255,255,255,0.11);
+}
+
+@media only screen and (max-width: 480px) {
+	.topftr a{
+	padding-left:40px;
+	
+}
+}
+
+
+
+/**** Home Page Design improvement ****/
+
+
+
+/***************** prime booking page css *******************************/
+.list-single-main-item-title h1{
+    color: #334e6f;
+    text-align: center;
+    font-size: 19px;
+    font-weight: 600;
+	padding: 7px;
+}
+.list-single-main-item-title h2{
+    color: #334e6f;
+    text-align: center;
+    font-size: 13px;
+    font-weight: 400;
+	
+}
+/***************** prime booking page css *******************************/
+
+/***join success page ******/
+ul.pgs_list_style_2 li {
+    font-size: 20px;
+}
+        
+.pgs_list_style_2{
+ padding-left: 0;
+}
+                
+ul.pgs_list_style_2 li{
+        color: #626262;
+        padding: 10px 0px 5px 230px;
+}
+                
+ul.pgs_list_style_2 li i {
+  padding-right: 30px;
+  color: #00a9da;
+  display: table-cell;
+}
+ul.pgs_list_style_2 li span {
+   display: table-cell;
+        font-size: 14px;
+        font-weight: 400;
+        color:#fff;
+}
+@media only screen and (max-width: 480px) {
+ul.pgs_list_style_2 li{
+        color: #626262;
+        padding: 0px 0px 0px 0px;
+}
+ul.pgs_list_style_2 li i {
+  padding-right: 0px;
+}
+ul.pgs_list_style_2 li span{
+padding:0px 0px 0px 0px;
+}
+.soon-title {
+    color: #000;
+    font-size: 20px;
+    font-weight: 800;
+ padding:0px 0px 0px 0px;
+}
+}
+@media only screen and (max-width: 570px) {
+ul.pgs_list_style_2 li{
+        color: #626262;
+        padding: 0px 0px 0px 0px;
+}
+ul.pgs_list_style_2 li i {
+  padding-right: 0px;
+}
+ul.pgs_list_style_2 li span{
+padding:0px 0px 0px 0px;
+}
+.soon-title {
+    color: #000;
+    font-size: 20px;
+    font-weight: 800;
+ padding:0px 0px 0px 0px;
+}
+}
+/*****join success page *****/
+
+
+/**PRIME BOOKING PAGE NEW CSS DESIGN ***/
+/***CATEGORIES STARTED **/
+.asvcategories ul li {
+  font-size: 14px;
+color: #000;
+text-align: left;
+border-bottom: 1px solid #eee;
+padding-bottom: 15px;
+}
+
+.asvcategories ul li a {
+    color: #535353;
+   top: 10px;
+font-size: 14px;
+font-weight: 500;
+
+}
+.asvcategories li a:hover{
+	margin-left:10px;
+}
+
+.asvcategories ul li span {
+    float: right;
+    width: 24px;
+    height: 24px;
+    line-height: 24px;
+    position: relative;
+    border-radius: 100%;
+    margin-left: 10px;
+    color: #fff;
+    font-size: 10px;
+background: #334e6f;
+top: 10px;
+}
+.asvcategories ul li span{
+padding: 0px 0px 0px 10px;
+}
+
+
+
+/** CATEGORIES END**/
+.slideshow-adz {
+  position: relative;
+  z-index: 1;
+  height: 300px;
+  max-width:100% ;
+}
+.itemslid img{
+	max-width:100%;
+	display:block;
+	height:300px;
+}
+  
+  .soon-title-cont h3{
+	color:#000;
+	font-size: 28px;
+	font-weight:800;
+	margin-left: 40px;
+	margin-top: 70px;	
+}
+.soon-title-cont span{
+color: #fc8019;	
+}
+.soon-title-cont p{
+	text-align:center;
+	padding-left: 45px;
+}
+@media only screen and (max-width: 480px) {
+	.soon-title-cont h3{
+	color:#000;
+	font-size:18px;
+	font-weight:800;
+	margin-left: 10px;  
+	margin-top: 10px;
+}
+
+.soon-title-cont p{
+	text-align:center;
+	padding-left: 10px;
+}
+.app-store1-btn{
+	display: inline-block;
+	background-color: rgba(255, 255, 255, .058);
+	border-radius: 3px;
+	overflow: hidden;
+	position: relative;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.itemslid img{
+	max-width:100%;
+	display:block;
+	height:auto;
+}
+
+}
+.app-bnr{
+	padding-top:30px;
+}
+.app-bnr img{
+	 max-width: 100%;
+	height: auto;
+	display:block;
+}
+.app-store1-btn{
+	display: inline-block;
+	background-color: rgba(255, 255, 255, .058);
+	border-radius: 3px;
+	overflow: hidden;
+	position: relative;
+	margin-right: -40px;
+	margin-bottom: 20px;
+}
+
+.app-store1-btn img{
+	width: 100%;
+	height: auto;
+	display: block;
+	pointer-events: none;
+	backface-visibility: hidden;
+}
+
+.app-store1-btn:hover{
+	background-color: none;
+}
+.prime-service{
+	border-radius:100%;
+	overflow:hidden;
+	position:relative;
+	z-index:3;
+	width:80px;
+	height:80px;
+	display:inline-block;
+	margin-top:20px;
+	
+}
+.prime-service img{
+	display:block;
+	max-width:100%;
+	height: 100%;
+	
+}
+.prime-attribute{
+	padding-top:5px;
+}
+
+.prime-attribute span{
+	font-size:14px;
+	color:#334e6f;
+	font-weight:500;
+}
+
+.primecatgry h2{
+color: #334e6f;
+text-align: center;
+font-size: 17px;
+font-weight: 600;
+display: inline-block;
+margin-top: 25px;
+}
+
+.ser-head-title h3{
+	color: #334e6f;
+	font-size: 18px;
+	font-weight: 600;
+	text-align:left;
+	padding-left:10px;
+}
+
+.col-sm-5cols{
+    position: relative;
+    min-height: 1px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+@media (min-width: 768px) {
+.col-sm-4cols {
+        width: 25%;
+        float: left;
+    }
+}
+
+
+
+
+/**PRIME BOOKING PAGE NEW CSS DESIGN ***/
+
+
+/****price list increment decrement +/- css****/
+
+/****price list increment decrement +/- css****/
+.count-input_mobile {
+  position: relative;
+  max-width: 100%;
+  width: 100px;
+  margin-top: 10px;
+  text-align: center;
+}
+.count-input_mobile input {
+  width: 100%;
+  height: 40px;
+  border: 1px solid #000
+  border-radius: 2px;
+  background: none;
+  text-align: center;
+}
+.count-input_mobile input:focus {
+  outline: none;
+}
+.count-input_mobile .incr-btn_mobile {
+  display: block;
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  font-size: 26px;
+  font-weight: 500;
+  text-align: center;
+  line-height: 30px;
+  top: 50%;
+  right: 0;
+  margin-top: -15px;
+  text-decoration:none;
+}
+.count-input_mobile .incr-btn_mobile:first-child {
+  right: auto;
+  left: 0;
+  top: 46%;
+  color:#f51b00;
+}
+.count-input_mobile .incr-btn_mobile:last-child {
+  color:#60b246;
+}
+.count-input_mobile.count-input-sm {
+  max-width: 125px;
+}
+.count-input_mobile.count-input-sm input {
+  height: 36px;
+}
+.count-input_mobile.count-input-lg {
+  max-width: 200px;
+}
+.count-input_mobile.count-input-lg input {
+  height: 70px;
+  border-radius: 3px;
+}
+
+#tots{
+		float:right;
+		font-size: 30px;
+		padding-right: 72px;
+	}
+	
+.r-currency{
+		float:left;
+		padding: 0px 10px 10px 10px;
+		color: #010203;
+	}
+.r-currency-t {
+		float: right;
+		font-size: 28px;
+		font-weight: 500;
+		padding: 0px 15px 0px 0px;
+		color: #878C9F;
+  }
+  
+.join-btn{
+		float:right;
+}
+		
+#xt{
+	color:#010203;
+	font-size: 14px;
+	width: 215px;
+	word-wrap: break-word;
+}
+.clist{
+	color:#010203;
+	font-weight: normal;
+}
+
+#tamt-a{
+	display: inline-block;
+	color:#010203;
+	font-size: 15px;
+  padding-left: 100px;
+}
+
+
+
+@media only screen and (max-width: 480px) {
+#tamt-a{
+	color: #010203;
+    font-size: 15px;
+    padding-left: 0px;
+    padding-right: 0px;
+    font-weight: 600;
+    display: inline-block;
+    margin-right: -105px;
+}
+}
+
+/****price list increment decrement +/- css****/
+
+
+/****price list increment decrement +/- css****/
+
+
+/****gooezy hire****/
+
+.inline-ticket-wrap {
+	border-radius:10px;
+	overflow:hidden;
+	background:#fff;
+    border: 1px solid #e5e7f2;
+}
+.lsingle-tickets {
+	margin-bottom:20px;
+}
+.evticket-details {
+	/*padding:25px 20px;*/
+	padding: 10px 0px;
+}
+.evticket-details p , .evticket-details h6 {
+	text-align: center;
+	color: #fff;
+	font-size: 13px;
+	font-weight: 500;
+}
+.evticket-details h6  {
+	font-size:16px;
+	padding-bottom:10px;
+}
+.evticket-details i {
+	position:absolute;
+	right:20px;
+	top:10px;
+	color: rgba(255,255,255,0.4);
+	font-size:44px;
+}
+.evticket-meta {
+	padding:15px 20px;
+}
+.evticket-price {
+	float:left;
+	font-size:16px;
+	color: #7d93b2;
+	font-weight:600;
+}
+.evticket-price span  , .evticket-available span{
+	color:#54A9FC;
+}
+.evticket-available {
+	float:right;
+	color:#999;
+}
+.evticket-available span {
+	padding-left:6px;
+}
+.reviews-comments-item1 {
+	padding:0 0 30px 110px;
+	position:relative;
+	float:left;
+	margin-bottom:40px;
+	width:100%;
+	border-bottom:1px solid #eee;
+}
+.reviews-comments-item1.reply-comment-item1 {
+	width:90%;
+	margin-left:10%;
+
+	padding:30px 20px 30px 110px;
+
+	border-radius:6px;
+}
+.reviews-comments-item1.reply-comment-item1 .review-comments-avatar1 {
+	top:30px;
+}
+.reviews-comments-item1.reply-comment-item1:before {
+	content:'';
+	position:absolute;
+	top:0;
+	left:-10%;
+	margin-left:30px;
+	width:40px;
+	height:40px;
+	border-left:1px solid #eee;
+	border-bottom:1px solid #eee;
+}
+.reviews-comments-item1:last-child {
+	border:none;
+	margin-bottom:0;
+}
+.review-comments-avatar1 {
+	position:absolute;
+	top:0;
+	left:20px;
+	width:80px;
+	height:80px;
+	overflow:hidden;
+	border-radius:100%;
+}
+.review-comments-avatar1 img {
+	width:80px;
+	height:80px;
+	float:left;
+}
+.reviews-comments-item-text1 {
+	float:left;
+	width:100%;
+	position:relative;
+	padding:0 20px;
+}
+.reviews-comments-item-text1 .new-dashboard-item1 {
+	top:0;
+}
+.reviews-comments-item-text1 h4 {
+	text-align:left;
+	padding-bottom:25px;
+	float:left;
+
+	font-size:16px;
+	font-weight:500;
+}
+.reviews-comments-item-text1 p {
+	text-align:left;
+}
+.reviews-comments-item-date1 {
+	float:left;
+	margin-top:18px;
+	font-weight:500;
+	color:#999;
+}
+
+@media only screen and (max-width: 480px) {
+	.reviews-comments-item1 {
+	padding:0 0 0px 0px;
+	position:relative;
+	float:left;
+	margin-bottom:40px;
+	width:100%;
+	border-bottom:1px solid #eee;
+}
+.review-comments-avatar1 img {
+	display:none;
+}
+
+}
+
+
+
+.g-font-size-13 {
+    font-size: 0.92857rem !important;
+}
+.g-color-primary {
+    color: #72c02c !important;
+}
+.list-unstyled {
+    padding-left: 0;
+	list-style:none;
+    text-align:justify;
+	padding-top: 10px;
+	float: left;
+	 display: inline-block;
+}
+
+.list-unstyled li{
+padding-top: 10px;
+}
+
+.list-single-header-cat-w {
+   margin-bottom: 10px;
+	float:right;
+	position: absolute;
+}
+.list-single-header-cat-w a {
+    color: #fff;
+    border-radius: 4px;
+    padding: 10px 25px;
+    float: right;
+	text-decoration:none;
+	background: -moz-linear-gradient(top, #3EAAFD, #49CEFF);
+}
+@media only screen and (max-width: 480px){
+.list-single-header-cat-w {
+  
+	float:right;
+	position:unset;
+}
+.list-single-header-cat-w a {
+    color: #fff;
+    border-radius: 4px;
+    padding: 10px 25px;
+    float: left;
+	text-decoration:none;
+	background: -moz-linear-gradient(top, #3EAAFD, #49CEFF);
+}
+}
+/****gooezy hire****/
+
+
+
+
+

@@ -1,0 +1,29 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.youtube.com	TRUE	/	FALSE	1999999999	GPS	1
+.youtube.com	TRUE	/	FALSE	1999999999	YSC	-JRoRcNsVFo
+.google.com	TRUE	/	FALSE	1999999999	NID	523=RhgHvM5DLJGeNuSrHl699HgJL8OlESi3ZkbxhEpigmhCavjXDMopN67K_EquSVnD3bGQN_5_RvApf_FQ2gNtUEQSLiNYIZoao-Hm1XBpWPMWYZ83yGdIsOXGhyAD1Rg9NC82-FzGO7ZoP_39rtRDwyihxKgoto2w2Mh7n2hqhIDKhXKpAJAkbQXKw3vBLiUm
+.facebook.com	TRUE	/	FALSE	1999999999	sb	MkAKaK2E34zQCS5-iinTXmjG
+.linkedin.com	TRUE	/	FALSE	1999999999	__cf_bm	z9yzBmEZMk4hqq6SJ4nxDXrACfTvVHKV_nyb3n3GxrA-1745502260-1.0.1.1-1iHPpn8_JpA90hLQbwpfvfv_vV2AIgIxbYukpKPSEJdfsRRpuKRW1h1sC2h7hJG8oGtmgx0XvlkhGCm9UQumJ7R34yikrh11bTzZ2Zy8erk
+youtube.com	TRUE	/	FALSE	1999999999	__Secure-ROLLOUT_TOKEN	CKft-KWD5MbnCRC8w7e95vCMAxi2yJ_T5vCMAw%3D%3D
+.instagram.com	TRUE	/	FALSE	1999999999	csrftoken	cfAVNQXMCS-pBQy-Fw33rm
+.whatsapp.com	TRUE	/	FALSE	1999999999	wa_lang_pref	en
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id_marketing	v1%3A174550230557634730
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id_ads	v1%3A174550230557634730
+.twitter.com	TRUE	/	FALSE	1999999999	personalization_id	v1_5YnZ8ssci44T1BPIBfo97g=="
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id	v1%3A174550230557634730
+.twitter.com	TRUE	/	FALSE	1999999999	__cf_bm	mrhyfyFJhYJTVDVK9.hb9lGsF1.MWCwjjG935m4lDH0-1745502305-1.0.1.1-LtphgufV3pwYnGm.MaCvH0aKVJb_BliTBFrImCqF4vN6Fq_0izqoCzA7cAuY_OGzUZTkodzKAIe0zPCG.svcu5WHwVvkV4BVhOyZHt9zEYE
+twitter.com	TRUE	/	FALSE	1999999999	SameSite	None
+api.whatsapp.com	TRUE	/	FALSE	1999999999	SameSite	deleted
+.linkedin.com	TRUE	/	FALSE	1999999999	bcookie	v=2&19358608-bfdf-4812-82eb-19f864fa040f"
+.www.linkedin.com	TRUE	/	FALSE	1999999999	bscookie	v=1&20250424135313fbba502d-0c37-45a4-8c6b-523c4de50320AQFc58sPdN-80s_uKQgR2WR_nKqCUQoQ"
+www.linkedin.com	TRUE	/	FALSE	1999999999	SameSite	None
+.instagram.com	TRUE	/	FALSE	1999999999	mid	aApCmgAEAAEkXCC4Cj5wKkW18Ebv
+www.instagram.com	TRUE	/	FALSE	1999999999	SameSite	None
+.youtube.com	TRUE	/	FALSE	1999999999	VISITOR_INFO1_LIVE	IZ5Kv9oV1wg
+.youtube.com	TRUE	/	FALSE	1999999999	VISITOR_PRIVACY_METADATA	CgJEWhIEGgAgPA%3D%3D
+www.youtube.com	TRUE	/	FALSE	1999999999	SameSite	none
+www.facebook.com	TRUE	/	FALSE	1999999999	SameSite	deleted
+.facebook.com	TRUE	/	FALSE	1999999999	fr	0fBI00Se5wzktBCBt..BoCkdm..AAA.0.0.BoCkd6.AWfJHoGj-H-8c8MIgi1U0cIX8UM
+web.facebook.com	TRUE	/	FALSE	1999999999	SameSite	None
+
